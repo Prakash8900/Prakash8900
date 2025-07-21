@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm Prakash 👋</h1>
+<h3 align="center">🚀 Creator of PXmaahi Hub</h3>
 
-<!--
-**Prakash8900/Prakash8900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+💡 Passionate about building tools, templates & digital products.  
+💻 Currently working on [PXmaahi Hub](https://prakash8900.github.io/pxmaahihub) – a creative lab for live demos, downloads, and more.  
+❤️ Projects powered by love (Maahi) & logic (Prakash)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🔧 Tech Stack  
+`HTML` `CSS` `JavaScript` `Bootstrap` `Git` `GitHub Pages`
+
+---
+
+📫 Connect  
+🔗 [PXmaahi Hub](https://prakash8900.github.io/pxmaahihub)  
+⭐ [Star My Projects](https://github.com/Prakash8900?tab=repositories)
